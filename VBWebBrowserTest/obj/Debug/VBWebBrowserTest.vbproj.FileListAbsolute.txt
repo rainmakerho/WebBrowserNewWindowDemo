@@ -1,0 +1,13 @@
+c:\users\rainm\documents\visual studio 2015\Projects\VBWebBrowserTest\VBWebBrowserTest\bin\Debug\VBWebBrowserTest.exe.config
+c:\users\rainm\documents\visual studio 2015\Projects\VBWebBrowserTest\VBWebBrowserTest\bin\Debug\VBWebBrowserTest.exe
+c:\users\rainm\documents\visual studio 2015\Projects\VBWebBrowserTest\VBWebBrowserTest\bin\Debug\VBWebBrowserTest.pdb
+c:\users\rainm\documents\visual studio 2015\Projects\VBWebBrowserTest\VBWebBrowserTest\bin\Debug\VBWebBrowserTest.xml
+c:\users\rainm\documents\visual studio 2015\Projects\VBWebBrowserTest\VBWebBrowserTest\obj\Debug\VBWebBrowserTest.vbprojResolveAssemblyReference.cache
+c:\users\rainm\documents\visual studio 2015\Projects\VBWebBrowserTest\VBWebBrowserTest\obj\Debug\VBWebBrowserTest.Form1.resources
+c:\users\rainm\documents\visual studio 2015\Projects\VBWebBrowserTest\VBWebBrowserTest\obj\Debug\VBWebBrowserTest.Resources.resources
+c:\users\rainm\documents\visual studio 2015\Projects\VBWebBrowserTest\VBWebBrowserTest\obj\Debug\VBWebBrowserTest.vbproj.GenerateResource.Cache
+c:\users\rainm\documents\visual studio 2015\Projects\VBWebBrowserTest\VBWebBrowserTest\obj\Debug\VBWebBrowserTest.exe
+c:\users\rainm\documents\visual studio 2015\Projects\VBWebBrowserTest\VBWebBrowserTest\obj\Debug\VBWebBrowserTest.xml
+c:\users\rainm\documents\visual studio 2015\Projects\VBWebBrowserTest\VBWebBrowserTest\obj\Debug\VBWebBrowserTest.pdb
+c:\users\rainm\documents\visual studio 2015\Projects\VBWebBrowserTest\VBWebBrowserTest\bin\Debug\ExtendWB.dll
+c:\users\rainm\documents\visual studio 2015\Projects\VBWebBrowserTest\VBWebBrowserTest\bin\Debug\ExtendWB.pdb
